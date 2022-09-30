@@ -4,7 +4,7 @@ import os
 import binascii
 self="'"
 
-namez = input("for compression c or e for extrac: ")
+namez = input("for compression c or e for extract: ")
 #@Author Jurijus pacalovas
 class encypthion_class:
 

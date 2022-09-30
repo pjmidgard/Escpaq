@@ -179,7 +179,7 @@ class encypthion_class:
                                 
                                 size_data3=size_data2
                                 
-                                size_data3="1"+size_data3
+                                size_data3="11111111"+size_data3
                                 
                                 long=len(size_data3)
                                 
